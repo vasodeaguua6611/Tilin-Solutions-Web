@@ -1,4 +1,6 @@
-# Tilin Solutions Website
+# WARNING : WORK IN PROGRESS! CODED THE FRONT AND HTML BASE IN LESS THAN 2 HOURS, FEATURES AND BACKEND WILL BE ADDED IN THE FUTURE.
+
+## Tilin Solutions Website
 
 Welcome to the official repository for the Tilin Solutions website! This repository contains the source code for our website, which showcases our projects, team, and tuh, idk.
 
